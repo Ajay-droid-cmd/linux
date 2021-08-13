@@ -1,0 +1,9 @@
+# Oh My ZSH theams
+
+half life theam : norm
+Original Half Life theam : half-life
+Orange and green : maran
+time with pwd : 3den
+time with pwd -2 : xiong-chiamiov
+Green : obraun
+more info : jonathan
